@@ -1,5 +1,3 @@
-epg,https://epg.pw/xmltv/epg_CN.xml.gz
-
 体育频道,#genre#
 广东体育 (1080p极速),http://120.238.84.45:9901/tsfile/live/1012_1.m3u8?key=txiptv
 广东体育 (FHD超清),http://120.234.187.66:10086/udp/239.20.0.97:3012
