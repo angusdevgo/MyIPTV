@@ -4,7 +4,7 @@
     {
       "name": "体育精选",
       "type": 0,
-      "url": "https://gh-proxy.org/raw.githubusercontent.com/angusdevgo/MyIPTV/main/live.txt?t=1791123494",
+      "url": "https://gh-proxy.org/raw.githubusercontent.com/angusdevgo/MyIPTV/main/live.txt",
       "epg": "https://epg.pw/xmltv/epg_CN.xml.gz",
       "logo": "https://live.fanmingming.cn/tv/{name}.png"
     }
