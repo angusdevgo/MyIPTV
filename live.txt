@@ -1,6 +1,13 @@
 epg,https://epg.pw/xmltv/epg_CN.xml.gz
 
 体育频道,#genre#
-广东体育,http://120.238.84.45:9901/tsfile/live/1012_1.m3u8?key=txiptv#http://120.234.187.66:10086/udp/239.20.0.97:3012#http://218.13.170.98:9901/tsfile/live/0019_1.m3u8#http://ddns.cyruslee.top:8888/udp/239.77.0.112:5146#http://116.77.33.98:44330/tsfile/live/1004_1.m3u8?key=txiptv&playlive=0&authid=0#http://107.150.42.114:82/live/gdty.m3u8?jsbt=1791115369&jsbk=db72130477fb0509cad4c4eec5f71973&from=zbdq4
-CCTV5,http://43.175.120.172/outlivecloud-cdn.ysp.cctv.cn/ysp/2024078403.m3u8#http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078401_dlna.m3u8#http://74.91.26.218:82/live/cctv5hd.m3u8
-CCTV5+,http://120.76.248.139/live/bfgd/4200000246.m3u8#http://162.128.169.70/txycdn.video.qq.com/1369718603.m3u8
+广东体育 (1080p极速),http://120.238.84.45:9901/tsfile/live/1012_1.m3u8?key=txiptv
+广东体育 (FHD超清),http://120.234.187.66:10086/udp/239.20.0.97:3012
+广东体育 (720p流畅),http://116.77.33.98:44330/tsfile/live/1004_1.m3u8?key=txiptv&playlive=0&authid=0
+广东体育 (备用高清),http://218.13.170.98:9901/tsfile/live/0019_1.m3u8
+广东体育 (组播代理),http://ddns.cyruslee.top:8888/udp/239.77.0.112:5146
+CCTV5 (央视频极速),http://43.175.120.172/outlivecloud-cdn.ysp.cctv.cn/ysp/2024078403.m3u8
+CCTV5 (官方高清),http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078401_dlna.m3u8
+CCTV5 (备用线路),http://74.91.26.218:82/live/cctv5hd.m3u8
+CCTV5+ (体育赛事),http://120.76.248.139/live/bfgd/4200000246.m3u8
+CCTV5+ (腾讯备线),http://162.128.169.70/txycdn.video.qq.com/1369718603.m3u8
